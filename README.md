@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supun Madhuranga</h1>
+![laka-image](https://github.com/user-attachments/assets/5d5580bf-a1cc-41b6-a73f-28251f96f5ca)<h1 align="center">Hi 👋, I'm Supun Madhuranga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <br>
@@ -34,13 +34,13 @@
 ## 👑 **`LAKA-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/Suppa-github19/"><img src="laka-image.png" width=80 height=80></a>
-   
-   <br
-
-   <img src="laka-image.png" border="5px" height="100px" weight="100px">
-
-   <br>
+   <a href="https://github.com/Suppa-github19/"><img src="laka-image.png" width=80 height=380></a>
 
 ---
+
+
+
+
+
+
 
