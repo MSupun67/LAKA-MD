@@ -34,7 +34,13 @@
 ## 👑 **`LAKA-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/Suppa-github19/"><img src="laka-image.png" width=80 height=80></a>   
+   <a href="https://github.com/Suppa-github19/"><img src="laka-image.png" width=80 height=80></a>
+   
+   <br
+
+   <img src="laka-image.png" border="5px" height="100px" weight="100px">
+
+   <br>
 
 ---
 
