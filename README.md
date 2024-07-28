@@ -4,12 +4,15 @@
 <br>
 
 ## LAKA-MD WHATSAPP BOT
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suppa-github19&label=Profile%20views&color=0e75b6&style=flat" alt="suppa-github19" /> </p>
+
+---
+
 
 <br>
  
-
-    
+  <p align="center">  
+  <a href="https://telegra.ph/file/20814386ac8526c7d91aa.jpg">
+    <img alt="prabath-md" height="420" src="https://telegra.ph/file/20814386ac8526c7d91aa.jpg">
   
   </a>
 </p>  
